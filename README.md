@@ -28,5 +28,5 @@
 - **GET por ID, DELETE e UPDATE - http://localhost:8080/products/{id}**
 
 ## Créditos do tutorial projeto:
--**Parte 1 - https://www.youtube.com/watch?v=Jz1GSz4EwbM**
--**Parte 2 - https://www.youtube.com/watch?v=ePGAm7mMFFg&t=1s**
+- **Parte 1 - https://www.youtube.com/watch?v=Jz1GSz4EwbM**
+- **Parte 2 - https://www.youtube.com/watch?v=ePGAm7mMFFg&t=1s**
