@@ -9,7 +9,7 @@
   - **Packaging - Jar**
   - **Java Version - 24**
   - ### Dependencies
-  - **Spring Web**
-  - **Spring Data JPA**
-  - **PostgreSQL Driver**
-  - **Flyway Migration**
+    - **Spring Web**
+    - **Spring Data JPA**
+    - **PostgreSQL Driver**
+    - **Flyway Migration**
