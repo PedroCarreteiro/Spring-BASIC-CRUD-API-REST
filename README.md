@@ -24,4 +24,5 @@
 
 ## Endpoint de teste local
 
-http://localhost:8080/products e http://localhost:8080/products/{id} para GET por ID, DELETE e UPDATE 
+- **GET Geral e Post - http://localhost:8080/products**
+- **GET por ID, DELETE e UPDATE - http://localhost:8080/products/{id}**
