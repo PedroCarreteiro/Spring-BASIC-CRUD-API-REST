@@ -15,4 +15,4 @@
     - **Flyway Migration**
 
 - ## PostgreSQL
-- **Version - Windows x86-64/17.5**
+- **Version - Windows x86-64 / 17.5**
