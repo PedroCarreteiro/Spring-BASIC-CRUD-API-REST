@@ -13,3 +13,6 @@
     - **Spring Data JPA**
     - **PostgreSQL Driver**
     - **Flyway Migration**
+
+- ## PostgreSQL
+- **Version - Windows x86-64/17.5**
