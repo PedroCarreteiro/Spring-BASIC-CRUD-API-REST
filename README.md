@@ -8,7 +8,7 @@
 - **SpringBoot version - 3.5.3**
 - **Packaging - Jar**
 - **Java Version - 24**
-- **Dependencies**
+- ###Dependencies
 - ***Spring Web***
 - ***Spring Data JPA***
 - ***PostgreSQL Driver***
